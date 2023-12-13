@@ -1,0 +1,45 @@
+Privacy Policy for "Upwork Simple Account Signup Helper" Google Chrome Extension.
+
+Last Updated: [Date]
+
+Thank you for using "Upwork Simple Account Signup Helper" Google Chrome Extension (the "Extension"). This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information.
+
+1. Information We Do Not Collect
+
+This Extension does not collect, store, or use any personally identifiable information (PII) or sensitive data from our users. This includes, but is not limited to:
+- Names
+- Email addresses
+- Contact information
+- Financial information
+- Location data
+- Browsing history
+
+2. Usage Data
+
+The Extension doesn't not collect, store, or use any anonymous usage data.
+
+3. Permissions
+
+The Extension doesn't require any specific permissions to function as intended. We do not seek access to any personal or sensitive information stored on your device.
+
+4. Third-Party Services
+
+The Extension does not integrate with any third-party services that would compromise your privacy. We do not share any data with external entities.
+
+5. Updates and Changes
+
+As Extension evolves, we may update this Privacy Policy to reflect changes in our practices. We encourage you to periodically review this page to stay informed about how we are protecting your information.
+
+6. Contact Us
+
+If you have any questions, concerns, or requests regarding your privacy or this Privacy Policy, please contact us at vtereshchuk@cloud.upwork.com.
+
+7. Internal Usage Only
+
+This Extension and its data are intended solely for internal use by Upwork and its authorized personnel. No personal data collected through the Extension will be shared with external parties.
+
+By using this Extension, you agree to the terms outlined in this Privacy Policy. If you do not agree with any aspect of this policy, please refrain from using the Extension.
+
+Thank you for trusting us with your privacy. We are committed to providing a secure and transparent experience for our users.
+
+Upwork | scrum-core-qa team
